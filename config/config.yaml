@@ -1,0 +1,13 @@
+app:
+  name: 'service-template'
+  version: '1.0.0'
+
+http:
+  port: 8080
+
+log: 
+  level: 'debug'
+
+postgres:
+  max_pool_size: 10
+
